@@ -1,0 +1,10 @@
+
+title: Vadim Saratovsev
+email: vadim@undernetsecurity.com
+description: >-
+  Cybersecurity Advisor and Quantum AI Researcher sharing insights, code, and strategic frameworks.
+baseurl: ""
+url: "https://quantumvadim.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
